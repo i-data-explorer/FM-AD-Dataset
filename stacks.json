@@ -1,0 +1,22 @@
+{
+  "title": "Foundation Medicine Adult Cancer Clinical Dataset (FM-AD)",
+  "description": "The Foundation Medicine Adult Cancer Clinical Dataset (FM-AD) is a study conducted by Foundation Medicine Inc (FMI). Genomic profiling data for approximately 18,000 adult patients with a diverse array of cancers was generated using FoundationeOne, FMI's commercially available, comprehensive genomic profiling assay. This dataset contains open Clinical and Biospecimen data.",
+  "logo": "_images/dataset.png",
+  "enabled": true,
+  "language": [
+    "Dataset",
+    "S3"
+  ],
+  "document": "data-logging-stack",
+  "stack_id": "fm-ad-dataset",
+  "type": "dataset-s3",
+  "categories": [
+    "Health"
+  ],
+  "has_dataset": true,
+  "has_api": false,
+  "git_url": "",
+  "git_commit": "",
+  "installTime": "2 minutes",
+  "isStacksSaved": true
+}
