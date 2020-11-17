@@ -8,16 +8,7 @@
   "categories": [
     "Health"
   ],
-  "platform": "Kubernetes",
   "cover": "cover.md",
-  "commands": [],
-  "display": [
-    {
-      "name": "Developer Dashboard",
-      "url": "##DNS.host##/codeserver",
-      "enabled": true
-    }
-  ],
   "buckets": [
     "gdc-fm-ad-phs001179-2-open"
   ],
@@ -29,9 +20,11 @@
       "Dataset"
     ],
     "Tag": [ "S3" ],
-    "categories": [
+    "Categories": [
       "Health"
+    ],
+    "Catalog Id": [
+      "fm-ad-dataset"
     ]
-  },
-  "isDocumentSaved": true
+  }
 }
