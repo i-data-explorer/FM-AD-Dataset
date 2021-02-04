@@ -13,7 +13,7 @@
     "gdc-fm-ad-phs001179-2-open"
   ],
   "meta": {
-    "Install time": [
+    "Install Time": [
       "2 minutes"
     ],
     "Type": [
@@ -22,6 +22,15 @@
     "Tag": [ "S3" ],
     "Categories": [
       "Health"
+    ],
+    "Update_frequency": [
+      "Monthly"
+     ],
+    "Last_updated": [
+      "01/01/2021"
+    ],
+    "License": [
+      "N/A"
     ],
     "Catalog Id": [
       "fm-ad-dataset"
